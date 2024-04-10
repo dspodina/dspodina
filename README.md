@@ -5,15 +5,12 @@ and a strong interest in UI design.
 
 ## My tech stacks
 
-### Front-end
-
-![html](./img/html.png) ![css](./img/css.png) ![js](./img/js.png)
-![tailwind](./img/tailwind.png) ![react](./img/react.png)
-
-### Back-end
-
-![node](./img/node.png) ![api](./img/api.png) ![docker](./img/docker.png)
-![mongoDb](./img/mongoDB.png) ![postgresql](./img/postgreSQL.png)
+```js
+const TechStacks = {
+  frontEnd: ['HTML', 'CSS', 'JavaScript', 'Tailwind CSS', 'React'],
+  backEnd: ['Node.js', 'API', 'Docker', 'MongoDB', 'PostgreSQL']
+};
+```
 
 ## A few facts about me
 
@@ -21,3 +18,4 @@ and a strong interest in UI design.
 - hiking, outdoor picnics, and cycling are my favorite ways to stay active,
 - food addicted,
 - dark humor lover.
+
