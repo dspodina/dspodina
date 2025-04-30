@@ -1,14 +1,13 @@
 # 🚀 Hi there, I'm Daria 👋
 
-I'm a Junior Full Stack Developer with a passion for crafting engaging websites
-and a strong interest in UI design.
+I'm a Front-end Developer with formal training in UI/UX design. I bring together strong technical expertise and a keen eye for design to build clean, intuitive, and engaging digital experiences. 
 
 ## My tech stacks
 
 ```js
 const TechStacks = {
   frontEnd: ['HTML', 'CSS', 'JavaScript', 'Tailwind CSS', 'React'],
-  backEnd: ['Node.js', 'API', 'Docker', 'MongoDB', 'PostgreSQL']
+  backEnd: ['Node.js', 'API', 'SQL', 'MongoDB', 'PostgreSQL']
 };
 ```
 
